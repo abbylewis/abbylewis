@@ -1,39 +1,35 @@
 ---
-bio: Studying the ecological effects of anthropogenic disturbance in freshwater systems
+title: "Abigail Lewis"
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: "aslewis@vt.edu"
+  - course: B.A. in Biology
+    institution: Pomona College
+    year: 2015
+  - course: Ph.D. in Biological Sciences
+    institution: Virginia Tech
+    year: Expected spring 2024
+email: aslewis@vt.edu
 first_name: Abigail
-highlight_name: true
+highlight_name: yes
 interests:
 - Ecosystem ecologist
 - Biogeochemist
-- Ecological forecaster. 
+- Ecological forecaster.
 last_name: Lewis
 organizations:
 - name: Virginia Tech
-  url: https://www.stanford.edu/
 role: Ph.D. student
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
-    header: true
+    header: yes
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/lewis_lakes
-- icon: graduation-cap
+- icon: "graduation-cap"
   icon_pack: fas
   link: https://scholar.google.is/citations?user=RZ_wNlMAAAAJ
 - icon: github
@@ -44,9 +40,9 @@ social:
   link: uploads/resume.pdf
 status:
   icon: ☕️
-superuser: true
-title: Abigail Lewis
+superuser: yes
+bio: Studying the ecological effects of anthropogenic disturbance in freshwater systems
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Abigail Lewis is an ecosystem ecologist and data scientist studying carbon cycling processes in freshwater lakes and reservoirs.
 {style="text-align: justify;"}
