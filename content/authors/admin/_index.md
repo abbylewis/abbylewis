@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Studying the ecological effects of anthropogenic disturbance in freshwater systems
 education:
   courses:
   - course: PhD in Artificial Intelligence
@@ -13,15 +12,15 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
-first_name: Alice
+first_name: Abigail
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Ecosystem ecologist
+- Biogeochemist
+- Ecological forecaster. 
+last_name: Lewis
 organizations:
-- name: Stanford University
+- name: Virginia Tech
   url: https://www.stanford.edu/
 role: Professor of Artificial Intelligence
 social:
