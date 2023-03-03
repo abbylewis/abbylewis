@@ -11,7 +11,7 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-email: ""
+email: "aslewis@vt.edu"
 first_name: Abigail
 highlight_name: true
 interests:
@@ -22,7 +22,7 @@ last_name: Lewis
 organizations:
 - name: Virginia Tech
   url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+role: Ph.D. student
 social:
 - icon: envelope
   icon_pack: fas
@@ -32,23 +32,20 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/lewis_lakes
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.is/citations?user=RZ_wNlMAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/abbylewis
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Abigail Lewis
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
