@@ -1,3 +1,7 @@
-# Professional Website
+## Steffi's Website
 
-Created using the template here: https://shilaan.rbind.io/post/building-your-website-using-r-blogdown/
+<https://steffilazerte.ca>
+
+Created with Quarto and R.
+
+To make your own, see this roadmap [Making a Website with GitHub/Quarto](https://steffilazerte.ca/posts/github-website/).

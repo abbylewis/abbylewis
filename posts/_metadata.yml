@@ -1,0 +1,17 @@
+# options specified here will apply to all posts in this folder
+
+
+# Enable banner style title blocks
+title-block-banner: false
+
+code-link: true
+
+toc: true
+toc-depth: 4
+
+execute:
+  echo: true
+  fig-align: center
+  freeze: auto
+# freeze computational output (but still is re-rendered)
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)

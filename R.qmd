@@ -1,0 +1,57 @@
+---
+title: R Projects
+toc: true
+warning: false
+message: false
+---
+
+```{r, include = FALSE}
+source("pre-render.R")
+```
+
+## Package Developement
+
+```{r}
+packages |>
+  mutate(pkg = str_extract(title, "\\w+"),
+         title = tt(title, type = "html")
+         ) |>
+  arrange(desc(start), !is.na(end), desc(end)) |>
+  fmt_pkgs(type = "html") |>
+  fmt_gt()
+```
+
+## R Script Development and Analysis
+
+```{r}
+workflows |>
+  filter(type != "r jobs") |>
+  arrange(desc(start), !is.na(end), desc(end)) |>
+  fmt_pkgs(type = "html", ignore_consultant = TRUE) |>
+  fmt_gt() |>
+  cols_width(1 ~ "40%")
+```
+
+## R Workshops
+
+```{r}
+workshops |>
+  mutate(
+    title = str_remove(title, " Workshop"),
+    title = paste0("[", title, "](", url, ")")) |>
+  fmt_teaching(type = "html") |>
+  fmt_gt()
+```
+
+## Other R-related work
+
+```{r}
+workflows |>
+  filter(type %in% c("r jobs")) |>
+  fmt_pkgs(type = "html") |>
+  fmt_gt()
+```
+
+See my CV for more details on [Teaching R](cv.html#r-university-teaching), and 
+[R Volunteering](cv.html#r-volunteering)
+

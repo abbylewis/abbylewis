@@ -1,0 +1,7 @@
+---
+title: Curriculum Vitae
+---
+
+```{=html}
+<embed src="pdf/ALewisCV_19Nov2024_website.pdf" width="600px" height="2100px" />
+```
