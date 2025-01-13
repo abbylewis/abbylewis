@@ -22,7 +22,7 @@ GitHub: [abbylewis](https://github.com/abbylewis)
 Bluesky: [\@aslewis.bsky.social](https://bsky.app/profile/aslewis.bsky.social)  
 
 
-Website created with Quarto based on a tutorial by Steffi LaZerte [here](https://steffilazerte.ca/posts/github-website/). 
+Website created with Quarto based on a [tutorial](https://steffilazerte.ca/posts/github-website/) by Steffi LaZerte. 
 
 Updated:
 ```{r}
