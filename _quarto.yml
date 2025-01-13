@@ -10,17 +10,15 @@ website:
   title: "Abigail Lewis"
   site-url: https://abigaillewis.github.io
   description: "Abigail Lewis personal website"
-  #favicon: "images/logo_gear.png"
   navbar:
     pinned: true
-    #logo: "/images/logo_gear.png"
     right:
       - text: "Home"
         file: index.qmd
       - text: "CV"
         file: cv.qmd
       - icon: envelope
-        href: mailto:abigail.sl.lewis@gmail.com
+        href: "mailto:abigail.sl.lewis@gmail.com"
       - icon: github
         href: https://github.com/abbylewis
 format:

@@ -17,13 +17,14 @@ Abigail Lewis is an environmental data scientist and [Smithsonian Climate Change
 
 Phone: (262) 565-7269  
 Email: [abigail.sl.lewis@gmail.com](mailto:abigail.sl.lewis@gmail.com)  
-ResearchGate: <https://www.researchgate.net/profile/Abigail-Lewis-9>  
-ORCID: <http://orcid.org/0000-0001-9933-4542>   
-GitHub: <https://github.com/abbylewis>  
-Bluesky: [\@aslewis.bsky.social](https://bsky.app/profile/aslewis.bsky.social) 
+[ResearchGate](https://www.researchgate.net/profile/Abigail-Lewis-9) | [ORCID](http://orcid.org/0000-0001-9933-4542) | [Google Scholar](https://scholar.google.com/citations?user=RZ_wNlMAAAAJ)  
+GitHub: [abbylewis](https://github.com/abbylewis)  
+Bluesky: [\@aslewis.bsky.social](https://bsky.app/profile/aslewis.bsky.social)  
 
 
-Created with Quarto by Abigail Lewis, based on a tutorial by Steffi LaZerte [here](https://steffilazerte.ca/posts/github-website/). Updated:
+Website created with Quarto based on a tutorial by Steffi LaZerte [here](https://steffilazerte.ca/posts/github-website/). 
+
+Updated:
 ```{r}
 as.character(Sys.Date())
 ```
