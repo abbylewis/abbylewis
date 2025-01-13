@@ -21,6 +21,7 @@ website:
         href: "mailto:abigail.sl.lewis@gmail.com"
       - icon: github
         href: https://github.com/abbylewis
+        target: _blank
 format:
   html:
     includes:
