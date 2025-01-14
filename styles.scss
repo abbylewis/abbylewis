@@ -1,10 +1,10 @@
 /*-- scss:defaults --*/
 // Base document colors
-$link-color: #5B836C;
+$link-color: #6E4935;
 $navbar-bg: #132A3C;
 $navbar-fg: white;
-$navbar-hl: #5B836C;
-$code-color: #5B836C;
+$navbar-hl: #89CECE;
+$code-color: #6E4935;
 
 // Base sizes
 $font-size-root: 11pt;
@@ -29,7 +29,7 @@ code {
 }
 
 #quarto-document-content {
-  background-color: #ffffffe0 !important;
+  background-color: #FFFFFFee !important;
   padding-right: 20px;
   padding-left: 20px;
   padding-bottom: 20px;
@@ -38,15 +38,15 @@ code {
 }
 
 section h1 {
-  color: #132A3C;
+  color: #217074;
 }
 
 section h2 {
-  color: #132A3C;
+  color: #217074;
 }
 
 section h3 {
-  color: #132A3C;
+  color: #217074;
 }
 
 #quarto-margin-sidebar {
@@ -63,6 +63,6 @@ body {
   background-position: top;
   background-size: cover;
   background-attachment: fixed;
-  background-image: url(images/dolly_sods.jpg);
+  background-image: url(images/sht.jpg);
   background-repeat: no-repeat;
 }
