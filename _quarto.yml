@@ -8,7 +8,7 @@ project:
 
 website:
   title: "Abigail Lewis"
-  site-url: https://abigaillewis.github.io
+  site-url: https://abbylewis.github.io
   description: "Abigail Lewis: personal website"
   navbar:
     pinned: true
