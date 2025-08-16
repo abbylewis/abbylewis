@@ -129,10 +129,10 @@ ul.task-list li input[type="checkbox"] {
 <p><br></p>
 <section id="abigail-lewis-ph.d." class="level1">
 <h1>Abigail Lewis, Ph.D.&nbsp;</h1>
-<p>Biogeochemistry, data science, ecological forecasting</p>
+<p><span style="font-size:12pt">Biogeochemistry, data science, ecological forecasting</span></p>
 <hr>
 <p><img src="images/marsh_square.jpg" class="img-fluid" style="float:left; padding-right:10px; width:200px; alt:'Abby Lewis at the Global Change Research Wetland'"></p>
-<p>Abigail Lewis is an environmental data scientist and <a href="https://serc.si.edu/staff/abigail-lewis">Smithsonian Climate Change Fellow</a>. Her research aims to characterize the effects of climate change on aquatic ecosystems and vice versa—how these changes may feed back to alter the global carbon cycling processes that shape Earth’s climate. At the Smithsonian Environmental Research Center, Abby is developing forecasts of methane emission from wetlands across the coasts of the contiguous United States to inform local and national blue carbon planning efforts.</p>
+<p>Abigail Lewis is an ecosystem ecologist and <a href="https://serc.si.edu/staff/abigail-lewis">Smithsonian Climate Change Fellow</a>. Her research aims to characterize the effects of climate change on aquatic ecosystems and vice versa—how these changes may feed back to alter the global carbon cycling processes that shape Earth’s climate. At the Smithsonian Environmental Research Center, Abby is developing forecasts of methane emission from wetlands across the coasts of the contiguous United States.</p>
 <div style="clear:left">
 
 </div>
@@ -144,8 +144,8 @@ ul.task-list li input[type="checkbox"] {
 GitHub: <a href="https://github.com/abbylewis">abbylewis</a><br>
 Bluesky: <a href="https://bsky.app/profile/aslewis.bsky.social">@aslewis.bsky.social</a></p>
 <hr>
-<p>Website created with Quarto based on <a href="https://steffilazerte.ca/posts/github-website/">resources</a> by Steffi LaZerte.</p>
-<p>Updated:</p>
+<p><span style="font-size:10pt">Website created with Quarto based on <a href="https://steffilazerte.ca/posts/github-website/">resources</a> by Steffi LaZerte. </span></p>
+<p><span style="font-size:10pt">Updated:</span></p>
 <div class="cell">
 <div class="cell-output cell-output-stdout">
 <pre><code>[1] "2025-08-16"</code></pre>
@@ -249,7 +249,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/abbylewis\.github\.io");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
