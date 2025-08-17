@@ -32,7 +32,8 @@ Olsson, F. E., C. C. Carey, G. Harrison, R. Ladwig, M. F. Lapeyrolerie, <span cl
 ## 2024
 
 <span class="asl">Lewis, A. S. L.</span>, M. P. Lau, S. F. Jane, K. C. Rose, Y. Be'eri-Shlevin, S. H. Burnet, F. Clayer, H. Feuchtmayr, H. P. Grossart, D. W. Howard, H. Mariash, J. Delgado Martin, R. L. North, I. Oleksy, R. M. Pilla, A. P. Smagula, R. Sommaruga, S. E. Steiner, P. Verburg, D. Wain, G. A. Weyhenmeyer, C. C. Carey. 2024. Anoxia Begets Anoxia: a positive feedback to the deoxygenation of temperate lakes. <i>Global Change Biology</i>. 30(1), e17046. [http://doi.org/10.1111/gcb.17046](http://doi.org/10.1111/gcb.17046)<br>
-*	Reported in 36 news stories from 34 outlets (Altmetric)
+<ul>
+  <li>Reported in 36 news stories from 34 outlets ([Altmetric](https://wiley.altmetric.com/details/157228763/news))</li></ul>
 
 <span class="asl">Lewis, A. S. L.</span>, A. Breef-Pilz, D. W. Howard, M. E. Lofton, F. Olsson, H. L. Wander, C. E. Wood, M. E. Schreiber, C. C. Carey. 2024. Reservoir Drawdown Highlights the Emergent Effects of Water Level Change on Reservoir Physics, Chemistry, and Biology. <i>JGR Biogeosciences</i>. 129, e2023JG007780. [https://doi.org/10.1029/2023JG007780](https://doi.org/10.1029/2023JG007780)
 

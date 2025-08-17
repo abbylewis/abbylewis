@@ -1,8 +1,5 @@
 
-![](images/speaking.jpg){style="float:right; padding-right:10px; width:200px; alt:'Abby Lewis speaking at a podium'"}
-
-# Teaching and outreach
-<div style="clear:right"></div>
+![](images/outreach.png){style="width:100%; alt:'four outreach and teaching photos featuring Abby Lewis'"}
 
 ## Teaching
 
@@ -28,8 +25,6 @@
   <ul>
       <li>Developed programing for biweekly workshops on earth science and environmental justice for local high school students</li></ul>
 </ul>
-
-<br><br>
 
 ## Outreach
 
