@@ -10,6 +10,8 @@ website:
   title: "Abigail Lewis"
   #site-url: https://abbylewis.github.io
   description: "Abigail Lewis: personal website"
+  open-graph: true
+  twitter-card: true
   navbar:
     pinned: true
     right:

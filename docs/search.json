@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Abigail Lewis, Ph.D. ",
     "section": "",
-    "text": "Abigail Lewis, Ph.D. \nBiogeochemistry, data science, ecological forecasting\n\n\nAbigail Lewis is an ecosystem ecologist and Smithsonian Climate Change Fellow. Her research aims to characterize the effects of climate change on aquatic ecosystems and vice versa—how these changes may feed back to alter the global carbon cycling processes that shape Earth’s climate. At the Smithsonian Environmental Research Center, Abby is developing forecasts of methane emission from wetlands across the coasts of the contiguous United States.\n\n\n\n\n\nContact\nEmail: abigail.sl.lewis@gmail.com\nResearchGate | ORCID | Google Scholar\nGitHub: abbylewis\nBluesky: @aslewis.bsky.social\n\nWebsite created with Quarto based on resources by Steffi LaZerte. \nUpdated:\n\n\n[1] \"2025-08-17\""
+    "text": "Abigail Lewis, Ph.D. \nBiogeochemistry, data science, ecological forecasting\n\nAbigail Lewis is an ecosystem ecologist and Smithsonian Climate Change Fellow. Her research aims to characterize the effects of climate change on aquatic ecosystems and vice versa—how these changes may feed back to alter the global carbon cycling processes that shape Earth’s climate. At the Smithsonian Environmental Research Center, Abby is developing forecasts of methane emission from wetlands across the coasts of the contiguous United States.\n\n\n\n\nContact\nEmail: abigail.sl.lewis@gmail.com\nResearchGate | ORCID | Google Scholar\nGitHub: abbylewis\nBluesky: @aslewis.bsky.social\n\nWebsite created with Quarto based on resources by Steffi LaZerte. \nUpdated:\n\n\n[1] \"2025-08-17\""
   },
   {
     "objectID": "about.html",
@@ -222,5 +222,19 @@
     "title": "Data publications",
     "section": "",
     "text": "Seasons_in_lakes SMARTX_CH4cast Spring_memory BVR_Drawdown Anoxia-Begets-Anoxia FeDOC"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nEmail: abigail.sl.lewis@gmail.com\nResearchGate | ORCID | Google Scholar\nGitHub: abbylewis\nBluesky: @aslewis.bsky.social"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Abigail Lewis, Ph.D. ",
+    "section": "Contact",
+    "text": "Contact\nEmail: abigail.sl.lewis@gmail.com\nResearchGate | ORCID | Google Scholar\nGitHub: abbylewis\nBluesky: @aslewis.bsky.social\n\nWebsite created with Quarto based on resources by Steffi LaZerte. \nUpdated:\n\n\n[1] \"2025-08-17\""
   }
 ]

@@ -1,4 +1,10 @@
 
+---
+description: "Abby Lewis's contributions to teaching and outreach"
+image: "images/flipthefair.png"
+title-block-style: none
+---
+
 ![](images/outreach.png){style="width:100%; alt:'four outreach and teaching photos featuring Abby Lewis'"}
 
 ## Teaching
