@@ -7,9 +7,7 @@ Total of 31 published or in review; 11 first-author<br>
 
 [ResearchGate](https://www.researchgate.net/profile/Abigail-Lewis-9) | [ORCID](http://orcid.org/0000-0001-9933-4542) | [Google Scholar](https://scholar.google.com/citations?user=RZ_wNlMAAAAJ)
 
------
-
-### In review
+## In review
 
 <span class="asl">Lewis, A. S. L.</span>, D. Mercado-Bettin, and C. C. Carey. Ecological memory of spring air temperature drives summer water quality dynamics in temperate lakes. In revision at <i>Ecology Letters</i>.
 
@@ -27,15 +25,11 @@ Sjodin, A., G. Stokes, C. Gallagher, M. Javadian, <span class="asl">A. S. L. Lew
 
 Wood, C. E., M. E. Schreiber, C. E. Bauer, A. Breef-Pilz, <span class="asl">A. S. L. Lewis</span>, N. W. Hammond, R. P. McClure, M. F. Verne, C. C. Carey. Preemptive activation of hypolimnetic oxygenation improves control of Fe and Mn in drinking water reservoirs. In revision at <i>Water Research</i>.
 
------
-
-### 2025
+## 2025
 
 Olsson, F. E., C. C. Carey, G. Harrison, R. Ladwig, M. F. Lapeyrolerie, <span class="asl">A. S. L. Lewis</span>, M. E. Lofton, F. Montealegre-Mora, J. S. Rabaey, C. J. Robbins, X. Yang, R. Q. Thomas. 2025. What can we learn from 100,000 freshwater forecasts? A synthesis from the NEON Ecological Forecasting Challenge. <i>Ecological Applications</i>. [https://doi.org/10.1002/eap.70004](https://doi.org/10.1002/eap.70004)
 
----
-
-### 2024
+## 2024
 
 <span class="asl">Lewis, A. S. L.</span>, M. P. Lau, S. F. Jane, K. C. Rose, Y. Be'eri-Shlevin, S. H. Burnet, F. Clayer, H. Feuchtmayr, H. P. Grossart, D. W. Howard, H. Mariash, J. Delgado Martin, R. L. North, I. Oleksy, R. M. Pilla, A. P. Smagula, R. Sommaruga, S. E. Steiner, P. Verburg, D. Wain, G. A. Weyhenmeyer, C. C. Carey. 2024. Anoxia Begets Anoxia: a positive feedback to the deoxygenation of temperate lakes. <i>Global Change Biology</i>. 30(1), e17046. [http://doi.org/10.1111/gcb.17046](http://doi.org/10.1111/gcb.17046)<br>
 *	Reported in 36 news stories from 34 outlets (Altmetric)
@@ -52,9 +46,7 @@ Wander, H. L., <span class="asl">A. S. L. Lewis</span>, D. W. Howard, M. E. Loft
 
 Man, X., C. Lei, K. A. Bierlein, L. D. Bryant. <span class="asl">A. S. L. Lewis</span>, C. C. Carey, J. C. Little. 2024. Computationally characterizing the diffusive boundary layer in lakes and reservoirs. <i>Journal of Soils and Sediments</i>. [https://doi.org/10.1007/s11368-024-03767-0](https://doi.org/10.1007/s11368-024-03767-0)
 
------
-
-### 2023
+## 2023
 
 <span class="asl">Lewis, A. S. L.</span>, C. R. Rollinson, A. J. Allyn, J. Ashander, S. Brodie, C. B. Brookson, E. Collins, M. C. Dietze, A. S. Gallinat, N. Juvigny-Khenafou, G. Koren, D. J. McGlinn, J. A. Peters, N. R. Record, C. J. Robbins, J. Tonkin, and G. M. Wardle. 2023. The power of forecasts to advance ecological theory. <i>Methods in Ecology and Evolution</i>. 14(3), 746–756. [https://doi.org/10.1111/2041-210X.13955](https://doi.org/10.1111/2041-210X.13955)
 
@@ -68,9 +60,7 @@ Thomas, R.Q., C. Boettiger, C.C. Carey, M.C. Dietze, L.R. Johnson, M.A. Kenney, 
 
 Woelmer, W. M., A. G. Hounshell, M. E. Lofton, H. L. Wander, <span class="asl">A. S. L. Lewis</span>, D. Scott, C. C. Carey. 2023. The importance of time and space in biogeochemical heterogeneity and processing along the reservoir ecosystem continuum. <i>Aquatic Sciences</i>. 85(2), 66. [https://doi.org/10.1007/s00027-023-00959-7](https://doi.org/10.1007/s00027-023-00959-7)
 
----
-
-### 2022
+## 2022
 
 <span class="asl">Lewis, A. S. L.</span>, W. M. Woelmer, H. L. Wander, D. W. Howard, J. W. Smith, R. P. McClure, M. E. Lofton, N. W. Hammond, R. S. Corrigan, R. Q. Thomas, C. C. Carey. 2022. Increased adoption of best practices in ecological forecasting enables comparisons of forecastability across systems. <i>Ecological Applications</i>. 32(2), e02500. [https://doi.org/10.1002/eap.2500](https://doi.org/10.1002/eap.2500)
 
@@ -80,29 +70,21 @@ Lofton, M. E., D. W. Howard, R. P. McClure, H. L. Wander, W. M. Woelmer, A. G. H
 
 Carey C. C., P. C. Hanson, R. Q. Thomas, A. B. Gerling, A. Hounshell, <span class="asl">A. S. L. Lewis</span>, M. E. Lofton, R. P. McClure, H. L. Wander, W. M. Woelmer, B. R. Niederlehner, M. E. Schreiber. 2022. Anoxia decreases the magnitude of the carbon, nitrogen, and phosphorus sink in freshwaters. <i>Global Change Biology</i>. 28(16), 4861–4881. [https://doi.org/10.1111/gcb.16228](https://doi.org/10.1111/gcb.16228)
 
------
-
-### 2021
+## 2021
 
 Carey, C. C., W. M. Woelmer, M. E. Lofton, R. J. Figueiredo, B. J. Bookout, R. S. Corrigan, V. Daneshmand, A. G. Hounshell, D. W. Howard, <span class="asl">A. S. L. Lewis</span>, R. P. McClure, H. L. Wander, N. K. Ward, R. Q. Thomas. 2021. Advancing lake and reservoir water quality management with near-term, iterative ecological forecasting. <i>Inland Waters</i>. 12(1), 107–120. [https://doi.org/10.1080/20442041.2020.1816421](https://doi.org/10.1080/20442041.2020.1816421)
 
 Woelmer, W. M., L. M. Bradley, L. T. Haber, D. H. Klinges, <span class="asl">A. S. L. Lewis</span>, E. Mohr, C. L. Torrens, K. I. Wheeler, A. M. Willson. 2021. 10 Simple Rules for training yourself in an emerging field. <i>PLOS Computational Biology</i>. 17(10), e1009440. [https://doi.org/10.1371/journal.pcbi.1009440](https://doi.org/10.1371/journal.pcbi.1009440)
 
----
-
-### 2020
+## 2020
 
 <span class="asl">Lewis, A. S. L.</span>, B. S. Kim, H. L. Edwards, H. L. Wander, C. M. Garfield, H. E. Murphy, N. D. Poulin, S. D. Princiotta, K. C. Rose, A. E. Taylor, K. C. Weathers, C. R. Wigdahl-Perry, K. Yokota, D. C. Richardson, D. A. Bruesewitz. 2020. Prevalence of nitrogen and phosphorus colimitation of freshwater phytoplankton explained by nitrogen deposition and lake characteristics across northeastern United States. <i>Inland waters</i>. 10(1), 42–50. [https://doi.org/10.1080/20442041.2019.1664233](https://doi.org/10.1080/20442041.2019.1664233)
 
----
-
-### 2018
+## 2018
 
 Frassl, M. A, D. P. Hamilton, B. A. Denfeld, E. de Eyto, S. E. Hampton, P. S. Keller, S. Sharma, <span class="asl">A. S. L. Lewis</span>, G. A. Weyhenmeyer, C. M. O'Reilly, M. E. Lofton, N. Catalán. 2018. Ten simple rules for collaboratively writing a multi-authored paper. <i>PLOS Comp. Bio.</i> 14(11), e1006508. [https://doi.org/10.1371/journal.pcbi.1006508](https://doi.org/10.1371/journal.pcbi.1006508)
 
----
-
-### 2017
+## 2017
 
 Lewis, S. E., J. J. Piatt., <span class="asl">A. S. L. Lewis</span>. 2017. Impact of a diet of native or non-native leaves on an amphipod Gammarus pseudolimnaeus. <i>Freshwater Science</i>. 36(4), 739–749. [https://doi.org/10.1086/694855](https://doi.org/10.1086/694855)
 <br><br><br>

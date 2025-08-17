@@ -17,10 +17,10 @@ website:
         file: index.qmd
       #- text: "Research"
       #  file: research.qmd
-      #- text: "Education"
-      #  file: teaching.qmd
       - text: "Publications"
         file: publications.qmd
+      - text: "Teaching and outreach"
+        file: teaching.qmd
       - text: "CV"
         file: cv.qmd
       - icon: envelope

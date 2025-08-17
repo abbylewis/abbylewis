@@ -2,12 +2,8 @@
 
 # Research
 
-### Oxygen decline in lakes
+## Oxygen decline in lakes
 
----
+## Freshwater carbon cycling
 
-### Freshwater carbon cycling
-
----
-
-### Ecological forecasting
+## Ecological forecasting
