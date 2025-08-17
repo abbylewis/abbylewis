@@ -19,6 +19,8 @@ website:
       #  file: research.qmd
       - text: "Publications"
         file: publications.qmd
+      - text: "Data publications"
+        file: open_science.qmd
       - text: "Teaching and outreach"
         file: teaching.qmd
       - text: "CV"
