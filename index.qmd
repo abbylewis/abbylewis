@@ -3,14 +3,6 @@
 description: "Personal website for Abigail (Abby) Lewis, a postdoctoral researcher at the Smithsonian Environmental Research Center"
 image: "images/marsh_square.jpg"
 title-block-style: none
-keywords:
-  - biogeochemistry
-  - data science
-  - ecological forecasting
-  - lake
-  - coastal wetland
-  - methane
-  - carbon
 ---
 
 <br>
