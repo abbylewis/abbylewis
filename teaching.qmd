@@ -4,6 +4,14 @@ title: "Teaching and Outreach"
 description: "Abby Lewis's contributions to teaching and outreach"
 image: "images/flipthefair.png"
 title-block-style: none
+keywords:
+  - advanced R programming
+  - science communication
+  - outreach
+  - ecology
+  - lake
+  - coastal wetland
+  - teaching
 ---
 
 ![](images/outreach.png){style="width:100%; alt:'four outreach and teaching photos featuring Abby Lewis'"}

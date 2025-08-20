@@ -3,6 +3,14 @@
 title: "Publications"
 description: "Peer-reviewed publications from Abigail (Abby) Lewis"
 title-block-style: none
+keywords:
+  - biogeochemistry
+  - data science
+  - ecological forecasting
+  - lake
+  - coastal wetland
+  - methane
+  - carbon
 ---
 
 Total of 31 published or in review; 11 first-author<br>
