@@ -12,8 +12,10 @@ website:
   description: "Personal website for Abigail (Abby) Lewis, a postdoctoral researcher at the Smithsonian Environmental Research Center"
   open-graph: true
   twitter-card: true
+  favicon: "images/marsh_square.jpg"
   navbar:
     pinned: true
+    #logo: "/images/marsh_square.jpg"
     right:
       - text: "Home"
         file: index.qmd
