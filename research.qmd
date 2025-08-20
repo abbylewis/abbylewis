@@ -1,4 +1,9 @@
 
+---
+title: "Research"
+description: "Research areas for Abigail (Abby) Lewis"
+title-block-style: none
+---
 
 # Research
 

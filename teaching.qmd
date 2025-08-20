@@ -1,5 +1,6 @@
 
 ---
+title: "Teaching and Outreach"
 description: "Abby Lewis's contributions to teaching and outreach"
 image: "images/flipthefair.png"
 title-block-style: none

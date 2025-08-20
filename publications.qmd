@@ -1,10 +1,9 @@
 
 ---
+title: "Publications"
 description: "Peer-reviewed publications from Abigail (Abby) Lewis"
 title-block-style: none
 ---
-
-# Publications
 
 Total of 31 published or in review; 11 first-author<br>
 <i>\* indicates mentored undergraduate student</i>

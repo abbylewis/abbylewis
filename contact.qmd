@@ -1,5 +1,6 @@
 
 ---
+title: "Contact"
 description: "Contact page for Abigail (Abby) Lewis"
 image: "images/marsh_square.jpg"
 title-block-style: none
@@ -8,8 +9,6 @@ title-block-style: none
 <br>
 
 ![](images/marsh_square.jpg){style="float: right; padding-right:10px; width:200px; alt:'Abby Lewis at the Global Change Research Wetland'"}
-
-# Contact
 
 Email: [abigail.sl.lewis@gmail.com](mailto:abigail.sl.lewis@gmail.com)  
 [ResearchGate](https://www.researchgate.net/profile/Abigail-Lewis-9) | [ORCID](http://orcid.org/0000-0001-9933-4542) | [Google Scholar](https://scholar.google.com/citations?user=RZ_wNlMAAAAJ)  

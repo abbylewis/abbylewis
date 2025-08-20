@@ -1,10 +1,9 @@
 
 ---
+title: "Data Publications"
 description: "List of published data products"
 title-block-style: none
 ---
-
-# Data publications 
 
 For annually-revised datasets, the citation for the most recent year is presented and the years of previous co-authored revisions are listed to the left.<br>
 <i>\* indicates mentored undergraduate student</i>
