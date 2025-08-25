@@ -12,7 +12,7 @@ title-block-style: none
 
 ![](images/marsh_square.jpg){style="float:left; padding-right:10px; width:200px; alt:'Abby Lewis at the Global Change Research Wetland'"}
 
-Abigail Lewis is an ecosystem ecologist and [Smithsonian Climate Change Fellow](https://serc.si.edu/staff/abigail-lewis). Her research aims to characterize the effects of climate change on aquatic ecosystems and vice versa—how these changes may feed back to alter the global carbon cycling processes that shape Earth’s climate. At the Smithsonian Environmental Research Center, Abby is developing forecasts of methane emission from wetlands across the coasts of the contiguous United States.
+Abigail Lewis (she/her) is an ecosystem ecologist and [Smithsonian Climate Change Fellow](https://serc.si.edu/staff/abigail-lewis). Her research aims to characterize the effects of climate change on aquatic ecosystems and vice versa—how these changes may feed back to alter the global carbon cycling processes that shape Earth’s climate. At the Smithsonian Environmental Research Center, Abby is developing forecasts of methane emission from wetlands across the coasts of the contiguous United States.
 
 <div style="clear:left"></div>
 
